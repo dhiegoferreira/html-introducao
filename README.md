@@ -1,6 +1,6 @@
 
 ## Oque é HTML?
-### HTML (HyperText Markup Language) não é uma linguagem de programação, é uma linguagem de marcação utilizada parra dizer ao seu navegador coo estrutura a página web que você visita. A página pode ser tanto omplicada como simples quanto o desenvolverdor web deseja que seja. HTML consiste em uma série de elementos que você usa para anexar, envolver ou marcar diferentes partes do conteúdo para que apareça ou aja de uma certa maneira.
+### HTML (HyperText Markup Language) não é uma linguagem de programação, é uma linguagem de marcação utilizada para dizer ao seu navegador como estruturar a página web que você visita. A página pode ser tanto complicada como simples quanto o desenvolverdor web deseja que seja. HTML consiste em uma série de elementos que você usa para anexar, envolver ou marcar diferentes partes do conteúdo para que apareça ou aja de uma certa maneira.
 
 
 
